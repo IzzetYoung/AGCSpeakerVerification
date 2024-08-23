@@ -199,8 +199,4 @@ Looking ahead, our focus will be on developing interpretable, fine-grained, and 
 }
 ```
 
-## License
-
-This project is released under the Apache 2.0 [license](./LICENSE).
-
 
